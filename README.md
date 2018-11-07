@@ -17,8 +17,7 @@ mvn clean install
 cd target
 
 java -jar spring-boot-mustache-core-ui-demo-0.0.1-SNAPSHOT.jar
-
-
+<br><br>
 Default user/password: 
 
 user/user
