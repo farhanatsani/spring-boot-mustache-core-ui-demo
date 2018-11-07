@@ -20,6 +20,20 @@ java -jar spring-boot-mustache-core-ui-demo-0.0.1-SNAPSHOT.jar
 
 # Open on browser http://localhost:8080/
 
-Default user/password: user/user
+| Username | Password |
+|:--------:| --------:|
+| user     | user     |
 
-Feel free to add user in registration menu
+## Screenshot
+
+Login Page
+
+![Login Page](img/login.png "Login Page")
+
+Registration Page
+
+![Registration Page](img/register.png "Registration Page")
+
+Dashboard Page
+
+![Welcome Page](img/welcome.png "Welcome Page")
