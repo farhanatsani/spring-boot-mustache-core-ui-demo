@@ -18,6 +18,8 @@ cd target
 
 java -jar spring-boot-mustache-core-ui-demo-0.0.1-SNAPSHOT.jar
 
+Open in browser
+
 http://localhost:8080/
 
 
