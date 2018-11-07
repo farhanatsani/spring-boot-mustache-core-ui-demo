@@ -7,6 +7,7 @@ Technology:
 - Core UI Web Admin Template
 
 Getting started:
+
 git clone https://github.com/farhanatsani/spring-boot-mustache-core-ui-demo.git
 
 cd spring-boot-mustache-core-ui-demo
