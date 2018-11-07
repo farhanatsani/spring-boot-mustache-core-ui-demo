@@ -16,13 +16,15 @@ mvn clean install
 
 cd target
 
-java -jar spring-boot-mustache-core-ui-demo-0.0.1-SNAPSHOT.jar
+java -jar -Dserver.port=8080 spring-boot-mustache-core-ui-demo-0.0.1-SNAPSHOT.jar
 
 # Open on browser http://localhost:8080/
 
 | Username | Password |
 |:--------:| --------:|
-| user     | user     |
+| admin    | admin     |
+
+# H2 console url http://localhost:8080/h2-console
 
 ## Screenshot
 
@@ -34,6 +36,6 @@ Registration Page
 
 ![Registration Page](img/register.png "Registration Page")
 
-Dashboard Page
+Welcome Page
 
 ![Welcome Page](img/welcome.png "Welcome Page")
