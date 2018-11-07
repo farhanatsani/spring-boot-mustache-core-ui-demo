@@ -18,5 +18,9 @@ cd target
 
 java -jar spring-boot-mustache-core-ui-demo-0.0.1-SNAPSHOT.jar
 
-Default user/password: user/user
+
+Default user/password: 
+
+user/user
+
 Feel free to add user in registration menu
