@@ -6,27 +6,27 @@ Technology:
 - Mustache Template Engine
 - Core UI Web Admin Template
 
-# Getting started:
+## Getting started:
 
-git clone https://github.com/farhanatsani/spring-boot-mustache-core-ui-demo.git
+`git clone https://github.com/farhanatsani/spring-boot-mustache-core-ui-demo.git`
 
-cd spring-boot-mustache-core-ui-demo
+`cd spring-boot-mustache-core-ui-demo`
 
-mvn clean install
+`mvn clean install`
 
-cd target
+`cd target`
 
-java -jar -Dserver.port=8080 spring-boot-mustache-core-ui-demo-0.0.1-SNAPSHOT.jar
+`java -jar -Dserver.port=8080 spring-boot-mustache-core-ui-demo-0.0.1-SNAPSHOT.jar`
 
-# Open on browser http://localhost:8080/
+### Open on browser http://localhost:8080/
 
 | Username | Password |
 |:--------:| --------:|
 | admin    | admin     |
 
-# H2 console url http://localhost:8080/h2-console
+### H2 console url http://localhost:8080/h2-console
 
-## Screenshot
+### Screenshot
 
 Login Page
 
